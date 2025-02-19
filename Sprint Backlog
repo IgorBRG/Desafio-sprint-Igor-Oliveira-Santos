@@ -1,0 +1,31 @@
+Sprint Backlog - Desafio Versionamento e Metodologias Ágeis
+
+ID 1 - Alteração no arquivo index.html
+
+Descrição: Modificar a cor do texto do nome dos veículos para azul.
+
+Critério de Aceitação: Os nomes dos veículos devem estar formatados conforme a especificação fornecida.
+
+Status: Concluído 
+
+ID 3 - Alteração no arquivo contato.html
+
+Descrição: Atualizar os links de navegação do site conforme especificado.
+
+Critério de Aceitação: Os links devem estar devidamente modificados e funcionando corretamente.
+
+Status: Concluído 
+
+Tarefas Planejadas:
+
+Criar repositório remoto no GitHub e configurar Git localmente.
+
+Criar branchs específicas para cada história de usuário.
+
+Implementar as alterações conforme especificado nos arquivos.
+
+Realizar testes para garantir que as mudanças atendam aos critérios de aceitação.
+
+Fazer merge das branchs com a branch principal.
+
+Subir as alterações para o repositório remoto no GitHub.
